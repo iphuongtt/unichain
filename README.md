@@ -11,9 +11,9 @@
 ## Installation
 - You can use either this command
 ```bash
-  [ -f "unichain.sh" ] && rm unichain.sh; wget -q https://raw.githubusercontent.com/zunxbt/unichain/refs/heads/main/unichain.sh && chmod +x unichain.sh && ./unichain.sh
+  [ -f "unichain.sh" ] && rm unichain.sh; wget -q https://raw.githubusercontent.com/iphuongtt/unichain/refs/heads/main/unichain.sh && chmod +x unichain.sh && ./unichain.sh
 ```
 - Or this command to run this script
 ```bash
-[ -f "unichain.sh" ] && rm unichain.sh; curl -sSL -o unichain.sh https://raw.githubusercontent.com/zunxbt/unichain/refs/heads/main/unichain.sh && chmod +x unichain.sh && ./unichain.sh
+[ -f "unichain.sh" ] && rm unichain.sh; curl -sSL -o unichain.sh https://raw.githubusercontent.com/iphuongtt/unichain/refs/heads/main/unichain.sh && chmod +x unichain.sh && ./unichain.sh
 ```

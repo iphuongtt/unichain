@@ -34,7 +34,7 @@ EOL
 
 source "$SCRIPT_DIR/token_deployment/.env"
 
-CONTRACT_NAME="ZunXBT"
+CONTRACT_NAME="Kosuke"
 
 if [ ! -d ".git" ]; then
     show "Initializing Git repository..." "progress"
